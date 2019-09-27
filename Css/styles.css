@@ -4,3 +4,34 @@
         font-size: 20px;
         padding: 10px;
 }
+#footer{
+    background-color: #1d2124;
+    color: #e2e3e5;
+    text-align: center;
+    height: 30px;
+
+}
+#socialmedia{
+    font-size: 30px;
+    padding: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+#tree{
+
+}
+#abovefooter{
+    background-color: #71dd8a;
+    height: 100px;
+    font-size: 20px;
+    color: #430297;
+    margin: 5px 2px;
+    text-align: center;
+    padding: 30px;
+}
+#contactbutton{
+    background-color: #0b2e13;
+    color: white;
+}
