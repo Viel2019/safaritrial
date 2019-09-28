@@ -29,8 +29,10 @@
     height: 300 px;
     padding: 5px;
 }
-
-
+#smalladverts{
+    height: 50x;
+    width: 1300px;
+}
 #abovefooter{
     background-color: #71dd8a;
     height: 100px;
